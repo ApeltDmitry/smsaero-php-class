@@ -1,7 +1,7 @@
 {
     "name": "apelt-dmitry/smsaero-php-class",
     "description": "php  class for smsaero api",
-    "type": "library",
+    "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +9,10 @@
             "email": "d.apelt@smsaero.ru"
         }
     ],
+    "support": {
+        "issues": "https://smsaero.ru/about/contact/",
+        "source": "https://github.com/apelt-dmitry/smsaero-php-class"
+    },
     "version": "1.0.0",
     "minimum-stability": "dev",
     "require": {
