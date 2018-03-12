@@ -1,0 +1,17 @@
+{
+    "name": "ApeltDmitry/smsaero-php-class",
+    "description": "php  class for smsaero api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "d.apelt",
+            "email": "d.apelt@smsaero.ru"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {
+          "php": ">=5.4.0"
+    }
+}
