@@ -2,6 +2,7 @@
     "name": "apelt-dmitry/smsaero-php-class-yii2-extension",
     "description": "php  class for smsaero api",
     "type": "yii2-extension",
+    "keywords": ["yii2", "yii2-extension", "sms", "smsaero"],
     "license": "MIT",
     "authors": [
         {
