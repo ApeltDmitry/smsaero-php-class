@@ -1,5 +1,5 @@
 <?php
-namespace SmsaeroApiV2;
+namespace ApeltDmitry\SmsaeroApiV2;
 
 class SmsaeroApiV2
 {
